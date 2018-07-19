@@ -1,0 +1,6 @@
+ansible
+python-openstackclient
+shade
+ara
+python-hpilo==3.9
+
